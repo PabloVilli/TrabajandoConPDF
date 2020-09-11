@@ -1,0 +1,11 @@
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\bin\Debug\LectorPDF_V01_dsa.exe.config
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\bin\Debug\LectorPDF_V01_dsa.exe
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\bin\Debug\LectorPDF_V01_dsa.pdb
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\obj\Debug\LectorPDF_V01_dsa.csprojResolveAssemblyReference.cache
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\obj\Debug\LectorPDF_V01_dsa.Form1.resources
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\obj\Debug\LectorPDF_V01_dsa.Properties.Resources.resources
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\obj\Debug\LectorPDF_V01_dsa.csproj.GenerateResource.Cache
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\obj\Debug\LectorPDF_V01_dsa.exe
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\obj\Debug\LectorPDF_V01_dsa.pdb
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\bin\Debug\itextsharp.dll
+c:\users\dsa5\documents\visual studio 2013\Projects\LectorPDF_V01_dsa\LectorPDF_V01_dsa\bin\Debug\itextsharp.xml
